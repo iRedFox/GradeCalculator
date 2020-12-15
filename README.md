@@ -7,4 +7,4 @@ A grade calculator that i made to calculate my marks faster :)
 
 
 #TO-DO
-- Create a GUI using OpenGL (instead of console based)
+- Create a GUI using OpenGL or any other libraries (instead of console based)
